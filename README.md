@@ -28,7 +28,7 @@ In order to participate and win prizes, you have to submit a **guided project**.
 
 3. Create a `spec.yml` file inside the folder. This is the specification file that contains the metadata regarding the project. This data will be shown in the project landing page.
 
-Here is an of example how the `spec.yml` file should look like, you can use this as a template for creating your own `spec.yml` file.
+Here is an example of how the `spec.yml` file should look like, you can use this as a template for creating your own `spec.yml` file.
 
 ```yaml
 name: Eventually - Stunning HTML5 Landing Page
